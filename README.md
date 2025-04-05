@@ -45,6 +45,6 @@ A simple and responsive product management dashboard built with **React**, **Tai
 
 ## 🔗 Live Demo
 
-👉 [Access the live project here](link-do-vercel)
+👉 [Access the live project here][(link-do-vercel)](https://product-dashboard-flame.vercel.app/)
 
 <br/>
